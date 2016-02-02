@@ -1,8 +1,8 @@
-# Assignment 1 - Review of C# Basic Concepts and Introduction to Git
+﻿# Assignment 1 - Review of C# Basic Concepts and Introduction to Git
 
 ## Due 02-01-2016
 
-## Author
+## Author Chad Cunningham
 
 ## Description
 
@@ -53,7 +53,9 @@ Suggestion/Hints:
 * Remember to handle (gracefully) cases where the user enters something incorrectly.
 
 ## Outside Resources Used
+http://stackoverflow.com/questions/10286056/what-is-the-command-to-exit-a-console-application-in-c
+I wasn't sure how to easily exit the program. A quick google search gave me: Environment.Exit(0);
 
 ## Known Problems, Issues, And/Or Errors in the Program
 
-
+No known problems.
